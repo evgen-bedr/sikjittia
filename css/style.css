@@ -109,8 +109,8 @@ h1 {
 }
 	h1 a {
 		display:block; 
-		width:240px;
-		height:69px;
+		width:193px;
+		height:110px;
 		text-indent:-9999px;
 		background:url(../images/logo.png) 0 0 no-repeat;
 	}
@@ -222,15 +222,15 @@ h2 {
 		line-height:29px;
 		color:#4d4d4d;
 	}
-.banner-2 {
-	width:227px;
-	height:227px;
-	background:url(../images/banner-2.png) 0 0 no-repeat;
-	position:absolute;
-	left:393px;
-	top:-7px;
-	z-index:99;
-}
+/*.banner-2 {*/
+/*	width:227px;*/
+/*	height:227px;*/
+/*	background:url(../images/banner-2.png) 0 0 no-repeat;*/
+/*	position:absolute;*/
+/*	left:393px;*/
+/*	top:-7px;*/
+/*	z-index:99;*/
+/*}*/
 		
 .pags {
 	position:absolute;
@@ -422,7 +422,7 @@ footer {
 	float:right;
 }
 	.list-services li {
-		float:left; 
+		float:left;
 		padding:0 5px 0 0;
 		font-family: 'Arial', serif;
 		font-size:19px;
@@ -432,7 +432,7 @@ footer {
 	.list-services li:first-child {padding-right:25px;}
 		.list-services li a {
 			display:block;
-			width:35px;
+			width:45px;
 			height:35px;
 			text-indent:-9999px;
 			background:url(../images/social-icons.png) 0 0 no-repeat;
